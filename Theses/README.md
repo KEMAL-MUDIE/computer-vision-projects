@@ -10,7 +10,9 @@ In this study, CXRcovNet, an 11-layer custom-designed CNN model, and three state
 
 ### 1. Combied Model architecture
 
-![model architecture](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/c75035b753ce1c5cd862e669176f521b4f7b3eb2/model%20arch.png)
+![model architecture](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/c75035b753ce1c5cd862e669176f521b4f7b3eb2/model%20arch.png) 
+Theses/model arch.png
+![model architecture](Theses/model arch.png) 
 
 ### 2. VGG 16 Base Model architecture
 
